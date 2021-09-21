@@ -172,7 +172,7 @@
 	// default options
 	// opciones predeterminadas
 	ath.defaults = {
-		appID: 'compassionate-elion-dc2c7a.netlify.app',		// nombre de local storage (no es necesario cambiarlo)
+		appID: 'org.cubiq.addtohome',		// nombre de local storage (no es necesario cambiarlo)
 		fontSize: 15,				// tamaño de fuente base, que se utiliza para cambiar el tamaño de la ventana emergente según el factor de escala de la ventana gráfica
 		debug: false,				// anular las comprobaciones del navegador
 		logging: false,				// log razones para mostrar o no mostrar en la consola js; por defecto es verdadero cuando la depuración es verdadera
